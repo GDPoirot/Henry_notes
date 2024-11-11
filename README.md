@@ -1,2 +1,2 @@
 # Henry_notes
-## test_READ_ME.md
+本仓库旨在用于个人学习笔记记录
